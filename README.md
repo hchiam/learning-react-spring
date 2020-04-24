@@ -12,6 +12,8 @@ CSS transitions _are_ performant and good enough for common one-off tasks, but r
 - concurrency
 - and apparently things like easy [time-travel and slow-motion](https://www.youtube.com/embed/1tavDv5hXpo?controls=1&start=370)?
 
+[Think in terms of springs instead of durations. Get natural realistic interactive fluidity.](https://github.com/react-spring/react-spring#why-springs-and-not-durations)
+
 ```bash
 npm install react-spring
 ```
